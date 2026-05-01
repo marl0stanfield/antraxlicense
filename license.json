@@ -1,0 +1,28 @@
+{
+  "enabled": true,
+  "allowed_routines": [
+    "autoFarm",
+    "autoCulture",
+    "autoPlanif",
+    "autoBandits",
+    "autoBuilder",
+    "autoRecruit",
+    "dynaCheck",
+    "autoWonder",
+    "autoDodge",
+    "autoRota",
+    "autoSpamAntiGold",
+    "autoRotaOrphee",
+    "autoGold"
+  ],
+  "allowed_players": [
+    {
+      "name": "Bad A Boom",
+      "worlds": ["fr179"]
+    },
+    {
+      "name": "Azert Love",
+      "worlds": ["fr182"]
+    }
+  ]
+}
