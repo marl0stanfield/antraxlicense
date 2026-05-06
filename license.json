@@ -29,13 +29,13 @@
       "name": "dark vador du 35",
       "worlds": ["fr182"]
     },
-        {
+    {
       "name": "Volvic",
       "worlds": ["fr182"]
-    }
-            {
+    },
+    {
       "name": "Senddos",
       "worlds": ["fr182"]
-    }
+    },
   ]
 }
