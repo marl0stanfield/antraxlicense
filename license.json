@@ -33,5 +33,9 @@
       "name": "Volvic",
       "worlds": ["fr182"]
     }
+            {
+      "name": "Senddos",
+      "worlds": ["fr182"]
+    }
   ]
 }
