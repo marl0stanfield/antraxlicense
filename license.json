@@ -19,7 +19,7 @@
     {
       "name": "Bad A Boom",
       "worlds": ["fr179"],
-      "routines": ["autoFarm","autoCulture","autoPlanif","autoBandits","autoBuilder","autoRecruit","dynaCheck","autoWonder","autoDodge","autoRota","autoSpamAntiGold","autoGold"]
+      "routines": ["autoFarm", "autoCulture", "autoPlanif", "autoBandits", "autoBuilder", "autoRecruit", "dynaCheck", "autoWonder", "autoDodge", "autoRota", "autoSpamAntiGold", "autoGold"]
     },
     {
       "name": "Azert Love",
@@ -36,6 +36,6 @@
     {
       "name": "Senddos",
       "worlds": ["fr182"]
-    },
+    }
   ]
 }
