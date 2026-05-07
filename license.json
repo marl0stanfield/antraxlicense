@@ -36,6 +36,10 @@
     {
       "name": "Senddos",
       "worlds": ["fr182"]
+    },
+    {
+      "name": "PlaqueVibrante",
+      "worlds": ["fr179"]
     }
   ]
 }
