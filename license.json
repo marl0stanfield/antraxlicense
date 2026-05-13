@@ -23,7 +23,7 @@
     },
     {
       "name": "Azert Love",
-      "worlds": ["fr182"]
+      "worlds": ["fr182"],
        "routines": ["autoFarm", "autoCulture", "autoPlanif", "autoBandits", "autoBuilder", "autoRecruit", "dynaCheck", "autoWonder", "autoDodge", "autoRota", "autoSpamAntiGold", "autoGold"]
     },
     {
