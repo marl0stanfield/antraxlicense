@@ -34,6 +34,11 @@
       "name": "Volvic",
       "worlds": ["fr182"]
     },
+        {
+      "name": "Fuhraxfr",
+      "worlds": ["fr182"],
+       "routines": ["autoFarm", "autoCulture", "autoPlanif", "autoBuilder", "autoRecruit", "autoDodge"]
+    },
     {
       "name": "tchoutchou",
       "worlds": ["fr182"]
