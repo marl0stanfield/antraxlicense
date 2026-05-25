@@ -24,7 +24,7 @@
     {
       "name": "Azert Love",
       "worlds": ["fr182"],
-       "routines": ["autoFarm", "autoCulture", "autoPlanif", "autoBandits", "autoBuilder", "autoRecruit", "dynaCheck", "autoWonder", "autoDodge", "autoRota", "autoSpamAntiGold", "autoGold"]
+       "routines": ["autoFarm", "autoCulture", "autoPlanif", "autoBuilder", "autoRecruit", "autoDodge", "autoRota", "autoGrotte", "autoSpamAntiGold"]
     },
     {
       "name": "dark vador du 35",
@@ -55,9 +55,5 @@
       "name": "azox",
       "worlds": ["fr182"]
     },
-    {
-      "name": "PlaqueVibrante",
-      "worlds": ["fr179"]
-    }
   ]
 }
