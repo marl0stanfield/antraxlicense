@@ -35,10 +35,15 @@
       "name": "Volvic",
       "worlds": ["fr182"]
     },
-        {
+    {
       "name": "Fuhraxfr",
       "worlds": ["fr182"],
        "routines": ["autoFarm", "autoCulture", "autoPlanif", "autoBuilder", "autoRecruit", "autoDodge"]
+    },
+    {
+      "name": "fly-tarte",
+      "worlds": ["fr182"],
+       "routines": ["autoDodge"]
     },
     {
       "name": "tchoutchou",
