@@ -28,6 +28,11 @@
        "routines": ["autoFarm", "autoCulture", "autoPlanif", "autoBandits", "autoBuilder", "autoRecruit", "dynaCheck", "autoWonder", "autoGrotte", "autoDodge", "autoRota", "autoSpamAntiGold", "autoGold"]
     },
     {
+      "name": "Dagot",
+      "worlds": ["fr182", "fr179"],
+       "routines": ["autoFarm", "autoCulture", "autoPlanif", "autoBandits", "autoBuilder", "autoRecruit", "dynaCheck", "autoWonder", "autoGrotte", "autoDodge", "autoRota", "autoSpamAntiGold", "autoGold"]
+    },
+    {
       "name": "dark vador du 35",
       "worlds": ["fr182"]
     },
