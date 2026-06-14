@@ -19,6 +19,7 @@
   "allowed_players": [
     {
       "name": "Dagot",
+      "worlds": ["fr179", "fr182", "fr183"]
     },
     {
       "name": "PlaqueVibrante",
