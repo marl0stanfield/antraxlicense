@@ -18,40 +18,12 @@
   ],
   "allowed_players": [
     {
-      "name": "Bad A Boom",
-      "worlds": ["fr179"],
-      "routines": ["autoFarm", "autoCulture", "autoPlanif", "autoBandits", "autoBuilder", "autoRecruit", "dynaCheck", "autoWonder", "autoDodge", "autoRota", "autoSpamAntiGold", "autoGold"]
-    },
-    {
-      "name": "Azert Love",
-      "worlds": ["fr182"],
-       "routines": ["autoFarm", "autoCulture", "autoPlanif", "autoBandits", "autoBuilder", "autoRecruit", "dynaCheck", "autoWonder", "autoGrotte", "autoDodge", "autoRota", "autoSpamAntiGold", "autoGold"]
-    },
-    {
       "name": "Dagot",
-      "worlds": ["fr182", "fr179"],
-       "routines": ["autoFarm", "autoCulture", "autoPlanif", "autoBandits", "autoBuilder", "autoRecruit", "dynaCheck", "autoWonder", "autoGrotte", "autoDodge", "autoRota", "autoSpamAntiGold", "autoGold"]
+      "worlds": ["fr183", "fr182", "fr179"],
     },
     {
-      "name": "dark vador du 35",
-      "worlds": ["fr182"]
-    },
-        {
       "name": "PlaqueVibrante",
       "worlds": ["fr179"]
-    },
-    {
-      "name": "DagTrax",
-      "worlds": ["pl144"]
-    },
-    {
-      "name": "Volvic",
-      "worlds": ["fr182"]
-    },
-    {
-      "name": "Fuhraxfr",
-      "worlds": ["fr182"],
-       "routines": ["autoFarm", "autoCulture", "autoPlanif", "autoBuilder", "autoRecruit", "autoDodge"]
     },
     {
       "name": "fly-tarte",
