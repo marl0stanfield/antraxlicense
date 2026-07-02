@@ -59,7 +59,21 @@
     "autoRota",
     "autoSpamAntiGold"]
     },
+    {
+      "name": "Arkantys",
+      "worlds": ["fr183"],
+      "routines": ["autoFarm",
+    "autoCulture",
+    "autoPlanif",
+    "autoBuilder",
+    "autoRecruit",
+    "autoGrotte",
+    "autoDodge",
+    "autoRota",
+    "autoSpamAntiGold"]
+    },
         {
+    {
       "name": "croah",
       "worlds": ["fr182"]
     },
