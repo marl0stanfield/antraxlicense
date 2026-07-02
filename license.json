@@ -48,7 +48,17 @@
     },
     {
       "name": "victorlazard",
-      "worlds": ["fr182"]
+      "worlds": ["fr182"],
+      "routines": ["autoFarm",
+    "autoCulture",
+    "autoPlanif",
+    "autoBuilder",
+    "autoRecruit",
+    "autoGrotte",
+    "autoDodge",
+    "autoRota",
+    "autoSpamAntiGold",
+    "autoRotaOrphee"]
     },
         {
       "name": "croah",
