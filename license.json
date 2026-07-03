@@ -13,8 +13,7 @@
     "autoDodge",
     "autoRota",
     "autoSpamAntiGold",
-    "autoRotaOrphee",
-    "autoGold"
+    "autoRotaOrphee"
   ],
   "allowed_players": [
     {
@@ -28,7 +27,7 @@
     {
       "name": "fly-tarte",
       "worlds": ["fr182"],
-       "routines": ["autoDodge"]
+      "routines": ["autoDodge"]
     },
     {
       "name": "tchoutchou",
@@ -38,39 +37,43 @@
       "name": "zankyx",
       "worlds": ["fr182"]
     },
-        {
+    {
       "name": "wazoul",
       "worlds": ["fr182"]
     },
-        {
+    {
       "name": "nougaray",
       "worlds": ["fr182"]
     },
     {
       "name": "victorlazard",
       "worlds": ["fr182"],
-      "routines": ["autoFarm",
-    "autoCulture",
-    "autoPlanif",
-    "autoBuilder",
-    "autoRecruit",
-    "autoGrotte",
-    "autoDodge",
-    "autoRota",
-    "autoSpamAntiGold"]
+      "routines": [
+        "autoFarm",
+        "autoCulture",
+        "autoPlanif",
+        "autoBuilder",
+        "autoRecruit",
+        "autoGrotte",
+        "autoDodge",
+        "autoRota",
+        "autoSpamAntiGold"
+      ]
     },
     {
       "name": "Arkantys",
       "worlds": ["fr183"],
-      "routines": ["autoFarm",
-    "autoCulture",
-    "autoPlanif",
-    "autoBuilder",
-    "autoRecruit",
-    "autoGrotte",
-    "autoDodge",
-    "autoRota",
-    "autoSpamAntiGold"]
+      "routines": [
+        "autoFarm",
+        "autoCulture",
+        "autoPlanif",
+        "autoBuilder",
+        "autoRecruit",
+        "autoGrotte",
+        "autoDodge",
+        "autoRota",
+        "autoSpamAntiGold"
+      ]
     },
     {
       "name": "croah",
