@@ -50,6 +50,10 @@
       "worlds": ["fr182"]
     },
     {
+      "name": "projetalpha",
+      "worlds": ["fr181"]
+    },
+    {
       "name": "victorlazard",
       "worlds": ["fr182"],
       "routines": [
