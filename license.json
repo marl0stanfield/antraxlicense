@@ -18,7 +18,7 @@
   "allowed_players": [
     {
       "name": "Dagot",
-      "worlds": ["fr179", "fr182", "fr183"]
+      "worlds": ["fr179", "fr182", "fr183", "fr184"]
     },
     {
       "name": "PlaqueVibrante",
@@ -54,7 +54,7 @@
     },
     {
       "name": "victorlazard",
-      "worlds": ["fr182"],
+      "worlds": ["fr182", "fr184"],
       "routines": [
         "autoFarm",
         "autoCulture",
